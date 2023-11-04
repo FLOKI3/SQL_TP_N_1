@@ -1,5 +1,5 @@
 --1. Créer une base de données « GestEmployes »
-CREATE DATABASE FLOKI 
+CREATE DATABASE GestEmployes 
 
 --2. Créer la table Employes (ID,Nom,Age,Salaire)
 CREATE TABLE GestEmployes(
