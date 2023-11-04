@@ -32,10 +32,10 @@ WHERE Nom = 'Omar'
 
 --6. Supprimer l’employé dont le nom est Ismail
 DELETE FROM GestEmployes
-WHERE nom = 'Ismail';
+WHERE nom = 'Ismail'
 
 --7. Supprimer tous les employés
-DELETE FROM GestEmployes;
+DELETE FROM GestEmployes
 
 --8. Réinsérer tous les employés précédents
 
